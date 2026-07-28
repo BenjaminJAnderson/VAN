@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## BACKLOG
 
+- [ ] [[Bed]] - Research thing
 
 
 ## IDEAS
